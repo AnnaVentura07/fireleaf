@@ -13,7 +13,7 @@ Os testes garantem que os principais elementos da interface funcionem corretamen
 
 ---
 
-##  Página de Cadastro – `Cadastro.html`
+##  Página de Cadastro
 
 ### Teste 1: Verificar existência dos campos
 O teste confirma que todos os campos obrigatórios existem:
@@ -56,21 +56,21 @@ O teste:
 
 ---
 
-##  Homepage – `Página (1).html`
+##  Homepage
 
-### Teste 1: Menu abre e fecha corretamente
-O teste verifica:
-- Se o menu inicia com a classe `ativo` (aberto)
-- Se ao clicar no botão de menu, a classe desaparece (menu fecha)
-
----
-
-### Teste 2: FAQ abre apenas uma pergunta por vez
-Funcionalidade verificada:
-- Ao abrir uma pergunta, sua resposta aparece  
-- Ao abrir outra, a anterior fecha automaticamente  
+### Teste 1: Icones do menu redirecionando
+O teste: 
+- verifica se cada botão leva para seu respectivo caminho ou site, sendo eles:
+- Inicio
+- Denúnciar
+- Notícias
+- Informações
 
 ---
+### Teste 2:
+O teste:
+- verifica a pokédex
+- verifica o saiba mais
 
 ### Teste 3: Botão "Saiba mais" exibe o alerta correto
 Quando o botão é clicado, o alerta exibido deve conter:
