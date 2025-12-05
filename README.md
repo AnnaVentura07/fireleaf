@@ -72,8 +72,8 @@ O teste:
 - verifica a pokédex
 - verifica o saiba mais
 
-### Teste 3: Botão "Saiba mais" exibe o alerta correto
-Quando o botão é clicado, o alerta exibido deve conter:
+### Teste 3:
+Deve redirecionar para o email, instagram e o site
 
 > **"Nosso sistema usa dados de satélites em tempo real"**
 
